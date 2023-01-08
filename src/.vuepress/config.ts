@@ -448,5 +448,6 @@ export default defineUserConfig<DefaultThemeOptions>({
 		},
 	},
 
+	shouldPreload: false,
 	shouldPrefetch: false,
 });
